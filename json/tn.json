@@ -1,5 +1,15 @@
 [
   {
+		"question": "What does this sign mean?",
+		"image": "MUTCD_W4-2R.svg",
+		"answers": [
+      {
+				"correct": "Right lane ends merge left"
+			},
+      "Pullout ahead", "Road narrows", "Left lane ends merge right"
+		]
+	},
+  {
 		"question": "What is the speed limit on federal and state routes?",
 		"image": "MUTCD_R2-1.svg",
 		"answers": [
